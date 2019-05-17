@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://oociuquie.kris.life/sitemap.xml
